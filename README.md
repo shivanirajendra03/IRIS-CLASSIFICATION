@@ -1,7 +1,7 @@
 IRIS-CLASSIFICATION
 "A simple ML project to predict Iris flower species based on sepal and petal measurements."
 
-Project Overview
+Project Overview:
 This project uses the classic *Iris dataset* to classify flowers into three species — Setosa, Versicolor, and Virginica.  
 It applies different machine learning algorithms to train and test prediction accuracy.
 
@@ -17,7 +17,7 @@ Technologies & Libraries
 - Scikit-learn  
 - Google Colab
 
-Results
+Results:
 Model performances were compared using accuracy score, confusion matrix, and classification reports.  
 The best-performing model achieved.
 
