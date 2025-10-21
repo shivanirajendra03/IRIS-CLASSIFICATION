@@ -5,10 +5,8 @@ Project Overview:
 This project uses the classic *Iris dataset* to classify flowers into three species — Setosa, Versicolor, and Virginica.  
 It applies different machine learning algorithms to train and test prediction accuracy.
 
-Algorithms Used
+Algorithm Used
 - Logistic Regression  
-- Decision Tree Classifier  
-- K-Nearest Neighbors (KNN)  
 
 Technologies & Libraries
 - Python  
